@@ -13,8 +13,8 @@
 | WETH Seed Pool | 2% |
 | WBTC Seed Pool | 2% |
 
-**WETH Seed Pool**: [0xef133080D202579634DdB425a0fA43d2608E4E95](https://etherscan.io/address/0xef133080D202579634DdB425a0fA43d2608E4E95)
-**WBTC Seed Pool**: [0x2D71d2fE1d58AF037Bc9c181c55E50855562F94C](https://etherscan.io/address/0x2D71d2fE1d58AF037Bc9c181c55E50855562F94C)
+- **WETH Seed Pool**: [0xef133080D202579634DdB425a0fA43d2608E4E95](https://etherscan.io/address/0xef133080D202579634DdB425a0fA43d2608E4E95)
+- **WBTC Seed Pool**: [0x2D71d2fE1d58AF037Bc9c181c55E50855562F94C](https://etherscan.io/address/0x2D71d2fE1d58AF037Bc9c181c55E50855562F94C)
 
 ## Wave 1 Distribution
 
