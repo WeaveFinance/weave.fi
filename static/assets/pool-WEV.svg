@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pool-WEV</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WEV-101" transform="translate(-1132.000000, -1320.000000)">
+            <g id="编组-2" transform="translate(1132.000000, 1320.000000)">
+                <circle id="椭圆形" fill="#151515" cx="50" cy="50" r="50"></circle>
+                <g id="编组" transform="translate(22.000000, 29.000000)">
+                    <polygon id="矩形备份-3" fill="#B8B8B8" transform="translate(19.160473, 21.070160) rotate(30.000000) translate(-19.160473, -21.070160) " points="13.3422344 0.560817778 25.0732909 0.533858244 24.9787116 41.5795015 13.247655 41.606461"></polygon>
+                    <polygon id="矩形备份-4" fill="#B8B8B8" transform="translate(40.728041, 21.018835) rotate(30.000000) translate(-40.728041, -21.018835) " points="34.909802 0.509492939 46.6408585 0.482533405 46.5462791 41.5281766 34.8152226 41.5551362"></polygon>
+                    <rect id="矩形" fill="#FFFFFF" x="0" y="0" width="14" height="42"></rect>
+                    <rect id="矩形备份" fill="#FFFFFF" x="22" y="0" width="14" height="42"></rect>
+                    <rect id="矩形备份-2" fill="#FFFFFF" x="43" y="0" width="14" height="30"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
