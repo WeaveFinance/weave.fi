@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[2],{O0dG:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),r=a.n(t),l=a("Ji2X"),c=a("hlFM"),o=a("ofer");class u extends r.a.PureComponent{render(){return r.a.createElement(l["a"],null,r.a.createElement(c["a"],null,r.a.createElement(o["a"],{align:"center"},"Amout me")))}}n["default"]=u}}]);
