@@ -8,7 +8,7 @@
 
 ## Deployer
 
-- [Timelock](https://etherscan.io/address/0x2a31682cc45263505f4eef7110f3c9e058616213)
+- **Timelock**: [0x2a31682cc45263505f4eef7110f3c9e058616213](https://etherscan.io/address/0x2a31682cc45263505f4eef7110f3c9e058616213)
 
 ## Seed Pools
 
