@@ -6,6 +6,10 @@
 
 **Weave DAO Token**: [0xfb9fc4ccc2538172fe76f7dc231a6969950e57c8](https://etherscan.io/address/0xfb9fc4ccc2538172fe76f7dc231a6969950e57c8)
 
+## Deployer
+
+- [Timelock](https://etherscan.io/address/0x2a31682cc45263505f4eef7110f3c9e058616213)
+
 ## Seed Pools
 
 | Seed Pool | WEV |
