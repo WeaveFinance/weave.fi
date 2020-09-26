@@ -42,6 +42,12 @@
 - **UNI/WEV Pool**: Coming soon
 - **WETH/WEV Pool**: Coming soon
 
+## Governance
+
+- **Treasury**: [0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61](https://etherscan.io/address/0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61)
+- **Treasury timelock**: [0x00cc0e1C488E188922aAc9F1703A6F1961c5854b](https://etherscan.io/address/0x00cc0e1C488E188922aAc9F1703A6F1961c5854b)
+- **Deployer timelock**: [0x2a31682cc45263505f4EeF7110f3c9e058616213](https://etherscan.io/address/0x2a31682cc45263505f4EeF7110f3c9e058616213)
+
 ## Proof of Burn
 
 ### Seed Pools
