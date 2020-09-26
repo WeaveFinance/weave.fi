@@ -32,8 +32,8 @@
 | SWUSD-WEV BPT | 5% |
 | KIF-WEV BPT | 5% |
 | gKIMCHI-WEV BPT | 5% |
-| UNI-WEV BPT | 5% |
-| WETH-WEV BPT | 5% |
+| ?-WEV BPT | 5% |
+| ?-WEV BPT | 5% |
 
 - **YFI/WEV Pool**: [0x10b366955f03aede4fc87873716ed85a75c683ef](https://etherscan.io/address/0x10b366955f03aede4fc87873716ed85a75c683ef)
 - **YFII/WEV Pool**: [0x592c867fa320d1a1d3115ad18ea06a0b7f8443d2](https://etherscan.io/address/0x592c867fa320d1a1d3115ad18ea06a0b7f8443d2)
@@ -41,8 +41,8 @@
 - **swUSD/WEV Pool**: [0xe2055b336775d1a58e3d83a61ff5af62dc07c4c4](https://etherscan.io/address/0xe2055b336775d1a58e3d83a61ff5af62dc07c4c4)
 - **KIF/WEV Pool**: [0x2a2f3eb0bba7dc1fd034f4d89dff66cd5e8163e3](https://etherscan.io/address/0x2a2f3eb0bba7dc1fd034f4d89dff66cd5e8163e3)
 - **gKIMCHI/WEV Pool**: [0xbec66cde667b120dd9786852ebeafba2a5b98d28](https://etherscan.io/address/0xbec66cde667b120dd9786852ebeafba2a5b98d28)
-- **UNI/WEV Pool**: Coming soon
-- **WETH/WEV Pool**: Coming soon
+- **?/WEV Pool**: Coming soon
+- **?/WEV Pool**: Coming soon
 
 ## WEV staking
 
