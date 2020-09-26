@@ -6,9 +6,11 @@
 
 **Weave DAO Token**: [0xfb9fc4ccc2538172fe76f7dc231a6969950e57c8](https://etherscan.io/address/0xfb9fc4ccc2538172fe76f7dc231a6969950e57c8)
 
-## Deployer
+## Governance
 
-- **Timelock**: [0x2a31682cc45263505f4eef7110f3c9e058616213](https://etherscan.io/address/0x2a31682cc45263505f4eef7110f3c9e058616213)
+- **Treasury**: [0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61](https://etherscan.io/address/0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61)
+- **Treasury timelock**: [0x00cc0e1C488E188922aAc9F1703A6F1961c5854b](https://etherscan.io/address/0x00cc0e1C488E188922aAc9F1703A6F1961c5854b)
+- **Deployer timelock**: [0x2a31682cc45263505f4EeF7110f3c9e058616213](https://etherscan.io/address/0x2a31682cc45263505f4EeF7110f3c9e058616213)
 
 ## Seed Pools
 
@@ -49,12 +51,6 @@
 | WEV | 6% |
 
 - **WEV Staking Pool**: [0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565](https://etherscan.io/address/0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565)
-
-## Governance
-
-- **Treasury**: [0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61](https://etherscan.io/address/0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61)
-- **Treasury timelock**: [0x00cc0e1C488E188922aAc9F1703A6F1961c5854b](https://etherscan.io/address/0x00cc0e1C488E188922aAc9F1703A6F1961c5854b)
-- **Deployer timelock**: [0x2a31682cc45263505f4EeF7110f3c9e058616213](https://etherscan.io/address/0x2a31682cc45263505f4EeF7110f3c9e058616213)
 
 ## Proof of Burn
 
