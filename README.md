@@ -42,6 +42,14 @@
 - **UNI/WEV Pool**: Coming soon
 - **WETH/WEV Pool**: Coming soon
 
+## WEV staking
+
+| Staking Pool | WEV |
+| --- | --- |
+| WEV | 6% |
+
+- **WEV Staking Pool**: [0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565](https://etherscan.io/address/0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565)
+
 ## Governance
 
 - **Treasury**: [0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61](https://etherscan.io/address/0x2d78100a0dcf8799dc57f0d541e7a91e30b25e61)
