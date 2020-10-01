@@ -44,13 +44,13 @@
 - **?/WEV Pool**: Coming soon
 - **?/WEV Pool**: Coming soon
 
-## WEV staking
+## WEV Staking Pool
 
 | Staking Pool | WEV |
 | --- | --- |
 | WEV | 6% |
 
-- **WEV Staking Pool**: [0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565](https://etherscan.io/address/0x5207ff83873c9Ebd684D7A7DCC4078022c6B7565)
+- **WEV Staking Pool**: [0x57279c246e2844154910ae9c1eaa7ec2f0f61b0b](https://etherscan.io/address/0x57279c246e2844154910ae9c1eaa7ec2f0f61b0b)
 
 ## Proof of Burn
 
@@ -75,6 +75,11 @@
 - [KIF/WEV Pool owner -> 0x0](https://etherscan.io/tx/0x3edc306927a400c2e10b4ae8b0c56a4ed8045c5474c8dc8c0f2646c00ca39067)
 - [gKIMCHI/WEV Pool distribution -> 0x0](https://etherscan.io/tx/0x74a932c7c45710ca2fb829bcc38aac4aec2af36051a00d21c44a97cc9fcae5c4)
 - [gKIMCHI/WEV Pool owner -> 0x0](https://etherscan.io/tx/0x761e3598f6a805dcfe5939c847eb280685168f453dfa949153c61b0233e1d6ef)
+
+## WEV Staking Pool
+
+- [WEV Staking Pool distribution -> 0x0](https://etherscan.io/tx/0x13a62386873c8d0a13100ec00e0d97e8a39628e19e54331662aab0ddbf814566)
+- [WEV Staking Pool owner -> 0x0](https://etherscan.io/tx/0xb1b7d3ffe3626c75c801e4c4fcb46dd1692caabe0d1c36d59f01f3f4d864d9c5)
 
 ## Wave 2 Distribution
 
